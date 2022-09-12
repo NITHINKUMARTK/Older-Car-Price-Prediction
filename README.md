@@ -16,7 +16,9 @@ https://nithinkumartk-older-car-price-prediction-carprice-app-8j27ug.streamlitap
 https://medium.com/@nithintk1810/older-car-price-prediction-of-indian-cars-using-machine-learning-models-c7dd81eb0b49
 
 ## How to run the project
-1) Clone the repository to your local machine.
-2) Install all the libraries mentioned in the requirements.txt file with the command <pip install-r requirements.txt>
-3) Open your terminal/command prompt from your project directory and run the file carprice.py by executing the command <streamlit run carprice_app.py>.
+1) Clone this repository to your local machine.
+
+2) Install all the libraries mentioned in the requirements.txt file with the command "pip install -r requirements.txt"
+
+3) Open your terminal/command prompt from your project directory and run the file carprice_app.py by executing the command "streamlit run carprice_app.py".
 
