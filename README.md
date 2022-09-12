@@ -22,3 +22,5 @@ https://medium.com/@nithintk1810/older-car-price-prediction-of-indian-cars-using
 
 3) Open your terminal/command prompt from your project directory and run the file carprice_app.py by executing the command "streamlit run carprice_app.py".
 
+https://github.com/NITHINKUMARTK/Older-Car-Price-Prediction/issues/1#issue-1369519802
+
