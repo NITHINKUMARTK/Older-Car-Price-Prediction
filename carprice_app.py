@@ -240,7 +240,7 @@ cost = cost_price
 if cost < 0:
   st .write("Please enter a positive value for max_cost_price")
 else:
-  max_cost_price = cost_price
+  max_cost_price = cost
 
 
 
@@ -248,7 +248,7 @@ year = purchase_year
 if year < 0:
   st.write("Please enter a positive value for year")
 else:
-  year_of_purchase = purchase_year
+  year_of_purchase = year
   vehicle_age = present_year - year_of_purchase
 
 
@@ -257,7 +257,7 @@ km = km_driven
 if km <0 :
   st.write("Please enter a positive value for km_driven")
 else:
-  km_driven  = km_driven
+  km_driven  = km
 
 
 
