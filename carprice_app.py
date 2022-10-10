@@ -267,7 +267,7 @@ fuel_type = option4
 transmission_type = option5
 seats = option6
 
-if max_cost_price != None and year_of_purchase != None and km_driven != None:
+if max_cost_price != None and vehicle_age != None and km_driven != None:
   input_data = {"car_name":[car_name],"brand": [brand], "max_cost_price":[max_cost_price],
               "vehicle_age": [vehicle_age],"km_driven":[km_driven], "seller_type":[seller_type],
               "fuel_type":[fuel_type],"transmission_type":[transmission_type], "seats":[seats]}
